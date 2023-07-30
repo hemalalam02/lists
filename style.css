@@ -1,0 +1,58 @@
+* {
+  font-family: "Kanit", sans-serif;
+  font-family: "Lugrasimo", cursive;
+  font-family: "Lumanosimo", cursive;
+}
+
+body {
+  color: rgb(7, 7, 7);
+}
+
+.container {
+  width: 360px;
+  padding: 30px;
+  text-align: center;
+  background-color: aliceblue;
+  margin-left: 400px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+input {
+  width: 270px;
+  padding: 8px;
+  border-radius: 10px;
+  border: 2px solid red;
+  outline: none;
+  font-size: 15px;
+}
+
+button {
+  width: 60px;
+  height: 30px;
+  border-radius: 5px;
+  color: aqua;
+  background-color: black;
+  font-size: 15px;
+  border: none;
+  outline: none;
+}
+
+.text ul {
+  position: relative;
+  background-color: black;
+  color: whitesmoke;
+  font-size: 19px;
+  text-align: left;
+  padding: 7px;
+  width: 360px;
+  margin-left: 420px;
+  border-radius: 10px;
+}
+
+.text ul i {
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
+  color: whitesmoke;
+}
